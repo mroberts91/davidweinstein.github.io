@@ -10,12 +10,4 @@ body {
     background-image: url(../assets/images/0_LPBuQlCevvDRPKf4.jpg);
     background-size: cover;
     height: 100%;
-    color: rgb(15, 156, 238);
-}
-.nav a {
-    color: #fff;
-}
-.nav a:hover {
-    color: rgb(15, 156, 238);
-    text-transform: uppercase;
 }
