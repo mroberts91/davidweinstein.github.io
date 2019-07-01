@@ -1,0 +1,48 @@
+/* html, body {
+    height: 100%;
+    width: 100%;
+} */
+
+
+.title {
+    text-align: center;
+}
+.list {
+    text-align: center;
+}
+.adds {
+    text-align: center;
+}
+ul {
+    list-style: none;
+}
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+.container-main {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+.clear {
+    margin-right: 1em;
+}
+
+#clearAll {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.done {
+    text-decoration: line-through;
+}
+li {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    text-transform: capitalize;
+}
